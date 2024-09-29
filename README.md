@@ -5,8 +5,8 @@
 ## 📚 Exercícios
 
 * Passo 01 - Sequências Básicas
-  - [ ] Exercícios 001 a 015
-  - [ ] DESAFIO (016)
+  - [x] Exercícios 001 a 015
+  - [x] DESAFIO (016)
 * Passo 02 - Condições Básicas
   - [ ] Exercícios 017 a 024
   - [ ] DESAFIO (025)
